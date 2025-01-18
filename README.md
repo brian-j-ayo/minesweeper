@@ -8,4 +8,4 @@ The goal is to recreate Minesweeper with a polished user interface, intuitive ga
 - Winning & Losing: Players win by revealing all non-mine tiles; the game ends when a mine is triggered.
 - User Interface: Clear and responsive UI for grid interaction, timers, and score tracking.
 ## link
-[Clickable Link Text](https://www.roblox.com/games/10184910170/minesweeper-project)
+[minesweeper on roblox](https://www.roblox.com/games/10184910170/minesweeper-project)
