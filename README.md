@@ -1,5 +1,6 @@
 # minesweeper
-## with roblox studio 
+with roblox studio 
+
 This project is a recreation of the classic Minesweeper game, built in Roblox Studio using Lua. 
 The goal is to recreate Minesweeper with a polished user interface, intuitive gameplay mechanics, and support for various difficulty levels.
 ## features
